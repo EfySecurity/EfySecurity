@@ -6,19 +6,49 @@
   <a href="https://github.com/seu_usuario"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"></a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your_username&color=brightgreen) 
+![Profile Views](https://komarev.com/ghpvc/?username=your_username&color=brightgreen)
 
-![GitHub Followers](https://img.shields.io/github/followers/your_username?label=Followers&style=social) 
+![GitHub Followers](https://img.shields.io/github/followers/your_username?label=Followers&style=social)
 
 ![GitHub stars](https://img.shields.io/github/stars/your_username/your_repository?style=social)
 
 ## 🚀 Sobre mim
 
-Sou um(a) apaixonado(a) por segurança cibernética, hacking ético e desenvolvimento de software. Adoro explorar novas tecnologias e enfrentar desafios complexos. Sempre buscando aprender e compartilhar conhecimento.
+Sou um(a) entusiasta da tecnologia, apaixonado(a) por hacking ético, programação e segurança cibernética. Adoro resolver quebra-cabeças complexos e encontrar soluções inovadoras para desafios de segurança.
+
+## 🏆 Conquistas e Certificações
+
+- [Certificação em Segurança Cibernética (CIS)](link_para_certificacao)
+- Vencedor do Hackathon XYZ (Ano)
+- ...
+
+## 🚀 Projetos Especiais
+
+- [Projeto XYZ: Desenvolvimento de Aplicativo Mobile](link_para_projeto)
+- Colaboração com [Empresa/Equipe](link_para_colaboracao)
+- ...
+
+## 🌟 Contribuições para Projetos Open Source
+
+- [Contribuição ao Projeto ABC](link_para_contribuicao)
+- Membro ativo da organização [Nome da Organização](link_para_organizacao)
+- ...
+
+## 📚 Blogs e Artigos
+
+- [Como Criar um Sistema de Autenticação Seguro](link_para_blog_1)
+- Apresentação na Conferência XYZ (Ano)
+- ...
+
+## 🌐 Atividades na Comunidade
+
+- Moderador do Grupo de Estudo de Segurança Cibernética (link_para_grupo)
+- Organizador do Evento TechTalk (link_para_evento)
+- ...
 
 ## 💼 Habilidades
 
-- **Linguagens:** [Lista de Linguagens que você conhece]
+- **Linguagens de Programação:** [Lista de Linguagens que você conhece]
 - **Segurança Cibernética:** [Experiência em Hacking Ético, Ferramentas que você usa]
 - **Desenvolvimento Web:** [Front-end, Back-end, Frameworks que você conhece]
 - **Outras Habilidades:** [Outras habilidades relevantes]
@@ -37,48 +67,7 @@ Você pode me encontrar em várias plataformas:
 - Twitter: [@seu_usuario](https://twitter.com/seu_usuario)
 - GitHub: [@seu_usuario](https://github.com/seu_usuario)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username)](https://github.com/anuraghazra/github-readme-stats)
+
+
 Fique à vontade para me contatar! Vamos discutir sobre segurança cibernética, programação ou qualquer coisa interessante. 😄
-
-
-
-# <p align="center">Hello, I'm [Your Name] 👋</p>
-
-<p align="center">
-  <a href="https://linkedin.com/in/your_profile"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://twitter.com/your_username"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
-  <a href="https://github.com/your_username"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"></a>
-</p>
-
-![Profile Views](https://komarev.com/ghpvc/?username=your_username&color=brightgreen) 
-
-![GitHub Followers](https://img.shields.io/github/followers/your_username?label=Followers&style=social) 
-
-![GitHub stars](https://img.shields.io/github/stars/your_username/your_repository?style=social)
-
-## 🚀 About Me
-
-I'm passionate about cybersecurity, ethical hacking, and software development. I love exploring new technologies and tackling complex challenges. Always seeking to learn and share knowledge.
-
-## 💼 Skills
-
-- **Programming Languages:** [List of Languages You Know]
-- **Cybersecurity:** [Experience in Ethical Hacking, Tools you use]
-- **Web Development:** [Front-end, Back-end, Frameworks you know]
-- **Other Skills:** [Other relevant skills]
-
-## 💻 Featured Projects
-
-- [Project Name 1](project_link_1) - A brief description.
-- [Project Name 2](project_link_2) - A brief description.
-- ...
-
-## 📫 How to Reach Me
-
-You can find me on various platforms:
-
-- LinkedIn: [Your Name](https://linkedin.com/in/your_profile)
-- Twitter: [@your_username](https://twitter.com/your_username)
-- GitHub: [@your_username](https://github.com/your_username)
-
-Feel free to contact me! Let's discuss cybersecurity, programming, or anything interesting. 😄
-
