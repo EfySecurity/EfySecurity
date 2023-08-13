@@ -6,6 +6,12 @@
   <a href="https://github.com/seu_usuario"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"></a>
 </p>
 
+![Profile Views](https://komarev.com/ghpvc/?username=your_username&color=brightgreen) 
+
+![GitHub Followers](https://img.shields.io/github/followers/your_username?label=Followers&style=social) 
+
+![GitHub stars](https://img.shields.io/github/stars/your_username/your_repository?style=social)
+
 ## 🚀 Sobre mim
 
 Sou um(a) apaixonado(a) por segurança cibernética, hacking ético e desenvolvimento de software. Adoro explorar novas tecnologias e enfrentar desafios complexos. Sempre buscando aprender e compartilhar conhecimento.
@@ -42,6 +48,12 @@ Fique à vontade para me contatar! Vamos discutir sobre segurança cibernética,
   <a href="https://twitter.com/your_username"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
   <a href="https://github.com/your_username"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"></a>
 </p>
+
+![Profile Views](https://komarev.com/ghpvc/?username=your_username&color=brightgreen) 
+
+![GitHub Followers](https://img.shields.io/github/followers/your_username?label=Followers&style=social) 
+
+![GitHub stars](https://img.shields.io/github/stars/your_username/your_repository?style=social)
 
 ## 🚀 About Me
 
