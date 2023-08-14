@@ -1,9 +1,9 @@
 # <p align="center">Olá, eu sou João Oliveira 👋</p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/seu_perfil"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/joao-vitor-da-silva-oliveira-72090a21b/"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
   <a href="https://twitter.com/seu_usuario"><img alt="Twitter" src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white"></a>
-  <a href="https://github.com/seu_usuario"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"></a>
+  <a href="https://github.com/EfySecurity"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"></a>
 </p>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=EfySecurity&color=brightgreen)
