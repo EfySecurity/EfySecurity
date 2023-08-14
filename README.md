@@ -18,7 +18,7 @@ Sou um(a) entusiasta da tecnologia, apaixonado por hacking ético, programação
 
 ## 🏆 Conquistas e Certificações
 
-- [Certificado em Tecnicas de Invasão (TDI)] (link_para_certificacao)
+- [Certificado em Tecnicas de Invasão (TDI)](link_para_certificacao)
 - [Certificação em Segurança Cibernética (CIS)](link_para_certificacao)
 - Vencedor do Hackathon XYZ (Ano)
 - ...
