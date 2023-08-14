@@ -8,9 +8,9 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=EfySecurity&color=brightgreen)
 
-![GitHub Followers](https://img.shields.io/github/followers/your_username?label=Followers&style=social)
+![GitHub Followers](https://img.shields.io/github/followers/EfySecurity?label=Followers&style=social)
 
-![GitHub stars](https://img.shields.io/github/stars/your_username/your_repository?style=social)
+![GitHub stars](https://img.shields.io/github/stars/EfySecurity/your_repository?style=social)
 
 ## 🚀 Sobre mim
 
