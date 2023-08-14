@@ -14,10 +14,11 @@
 
 ## 🚀 Sobre mim
 
-Sou um(a) entusiasta da tecnologia, apaixonado(a) por hacking ético, programação e segurança cibernética. Adoro resolver quebra-cabeças complexos e encontrar soluções inovadoras para desafios de segurança.
+Sou um(a) entusiasta da tecnologia, apaixonado por hacking ético, programação e segurança cibernética. Adoro resolver quebra-cabeças complexos e encontrar soluções inovadoras para desafios de segurança.
 
 ## 🏆 Conquistas e Certificações
 
+- [Certificado em Tecnicas de Invasão (TDI)] (link_para_certificacao)
 - [Certificação em Segurança Cibernética (CIS)](link_para_certificacao)
 - Vencedor do Hackathon XYZ (Ano)
 - ...
@@ -42,14 +43,14 @@ Sou um(a) entusiasta da tecnologia, apaixonado(a) por hacking ético, programaç
 
 ## 🌐 Atividades na Comunidade
 
-- Moderador do Grupo de Estudo de Segurança Cibernética (link_para_grupo)
+- Moderador do Grupo de Estudo de Segurança Cibernética (Efy Security LTDA)
 - Organizador do Evento TechTalk (link_para_evento)
 - ...
 
 ## 💼 Habilidades
 
-- **Linguagens de Programação:** [Lista de Linguagens que você conhece]
-- **Segurança Cibernética:** [Experiência em Hacking Ético, Ferramentas que você usa]
+- **Linguagens de Programação:** [Python, Shell]
+- **Segurança Cibernética:** [Experiência em Hacking Ético, Kali Linux, Kali Methunter, Andrax, Ferramentas que você usa]
 - **Desenvolvimento Web:** [Front-end, Back-end, Frameworks que você conhece]
 - **Outras Habilidades:** [Outras habilidades relevantes]
 
@@ -65,7 +66,7 @@ Você pode me encontrar em várias plataformas:
 
 - LinkedIn: [Seu Nome](https://linkedin.com/in/seu_perfil)
 - Twitter: [@seu_usuario](https://twitter.com/seu_usuario)
-- GitHub: [@seu_usuario](https://github.com/seu_usuario)
+- GitHub: [@EfySecuryty](https://github.com/EfySecurity)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EfySecurity)](https://github.com/anuraghazra/github-readme-stats)
 
