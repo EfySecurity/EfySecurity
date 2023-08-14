@@ -1,4 +1,4 @@
-# <p align="center">Olá, eu sou [JOÃO OLIVEIRA] 👋</p>
+# <p align="center">Olá, eu sou JOÃO OLIVEIRA 👋</p>
 
 <p align="center">
   <a href="https://linkedin.com/in/seu_perfil"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
