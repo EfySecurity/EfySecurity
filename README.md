@@ -10,7 +10,7 @@
 
 ![GitHub Followers](https://img.shields.io/github/followers/EfySecurity?label=Followers&style=social)
 
-![GitHub stars](https://img.shields.io/github/stars/your_name/EfySecurity/?style=social)
+[![GitHub stars](https://img.shields.io/github/stars/EfySecurity/EfySecurity.svg?style=social&label=Star&maxAge=2592000)](https://github.com/EfySecurity/EfySecurity/stargazers/)
 
 ## 🚀 Sobre mim
 
@@ -67,7 +67,7 @@ Você pode me encontrar em várias plataformas:
 - Twitter: [@seu_usuario](https://twitter.com/seu_usuario)
 - GitHub: [@seu_usuario](https://github.com/seu_usuario)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EfySecurity)](https://github.com/anuraghazra/github-readme-stats)
 
 
 Fique à vontade para me contatar! Vamos discutir sobre segurança cibernética, programação ou qualquer coisa interessante. 😄
