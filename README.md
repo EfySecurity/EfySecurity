@@ -10,7 +10,7 @@
 
 ![GitHub Followers](https://img.shields.io/github/followers/EfySecurity?label=Followers&style=social)
 
-![GitHub stars](https://img.shields.io/github/stars/EfySecurity/https://github.com/EfySecurity?style=social)
+![GitHub stars](https://img.shields.io/github/stars/https://github.com/EfySecurity?style=social)
 
 ## 🚀 Sobre mim
 
