@@ -6,7 +6,7 @@
   <a href="https://github.com/seu_usuario"><img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github"></a>
 </p>
 
-![Profile Views](https://komarev.com/ghpvc/?username=your_username&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=EfySecurity&color=brightgreen)
 
 ![GitHub Followers](https://img.shields.io/github/followers/your_username?label=Followers&style=social)
 
