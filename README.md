@@ -50,7 +50,7 @@ Sou um(a) entusiasta da tecnologia, apaixonado por hacking ético, programação
 
 ## 💼 Habilidades
 
-- **Linguagens de Programação:** [Python, Shell Scripting, PHP, HTML]
+- **Linguagens de Programação:** [Python, Shell Scripting, PHP, HTML, JavaScript, CSS]
 - **Segurança Cibernética:** [Experiência em Hacking Ético, Kali Linux, Kali Methunter, Andrax, Ferramentas que você usa]
 - **Desenvolvimento Web:** [Front-end, Back-end, Metasploit, Frameworks que você conhece]
 - **Outras Habilidades:** [Outras habilidades relevantes]
@@ -65,9 +65,9 @@ Sou um(a) entusiasta da tecnologia, apaixonado por hacking ético, programação
 
 Você pode me encontrar em várias plataformas:
 
-- LinkedIn: [Seu Nome](https://linkedin.com/in/seu_perfil)
+- LinkedIn: [João Oliveira](https://linkedin.com/in/seu_perfil)
 - Twitter: [@seu_usuario](https://twitter.com/seu_usuario)
-- GitHub: [@EfySecuryty](https://github.com/EfySecurity)
+- GitHub: [@EfySecurity](https://github.com/EfySecurity)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EfySecurity)](https://github.com/anuraghazra/github-readme-stats)
 
