@@ -49,9 +49,9 @@ Sou um(a) entusiasta da tecnologia, apaixonado por hacking ético, programação
 
 ## 💼 Habilidades
 
-- **Linguagens de Programação:** [Python, Shell Scripting, PHP]
+- **Linguagens de Programação:** [Python, Shell Scripting, PHP, HTML]
 - **Segurança Cibernética:** [Experiência em Hacking Ético, Kali Linux, Kali Methunter, Andrax, Ferramentas que você usa]
-- **Desenvolvimento Web:** [Front-end, Back-end, Frameworks que você conhece]
+- **Desenvolvimento Web:** [Front-end, Back-end, Metasploit, Frameworks que você conhece]
 - **Outras Habilidades:** [Outras habilidades relevantes]
 
 ## 💻 Projetos Destacados
