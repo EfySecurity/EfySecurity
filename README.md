@@ -25,7 +25,7 @@ Sou um(a) entusiasta da tecnologia, apaixonado por hacking ético, programação
 
 ## 🚀 Projetos Especiais
 
-- [CyberGuard Site: Desenvolvido em HTML, CSS e JavaScript](https://github.com/EfySecurity/Projeto-Site)
+- [CyberGuard: Desenvolvido em HTML, CSS e JavaScript](https://github.com/EfySecurity/Projeto-Site)
 - [Projeto XYZ: Desenvolvimento de Aplicativo Mobile](link_para_projeto)
 - Colaboração com [Empresa/Equipe](link_para_colaboracao)
 - ...
@@ -40,13 +40,11 @@ Sou um(a) entusiasta da tecnologia, apaixonado por hacking ético, programação
 
 - [Como Criar um Sistema de Autenticação Seguro](link_para_blog_1)
 - Apresentação na Conferência XYZ (Ano)
-- ...
 
 ## 🌐 Atividades na Comunidade
 
-- Moderador do Grupo de Estudo de Segurança Cibernética (Efy Security LTDA)
+- Moderador do Grupo de Estudo de Segurança Cibernética (Efy Security)
 - Organizador do Evento TechTalk (link_para_evento)
-- ...
 
 ## 💼 Habilidades
 
@@ -57,9 +55,7 @@ Sou um(a) entusiasta da tecnologia, apaixonado por hacking ético, programação
 
 ## 💻 Projetos Destacados
 
-- [Nome do Projeto 1](link_do_projeto_1) - Uma breve descrição.
-- [Nome do Projeto 2](link_do_projeto_2) - Uma breve descrição.
-- ...
+- [CyberGuard](https://github.com/EfySecurity/Projeto-Site) - desenvolvido para demonstrar diferentes elementos e técnicas de design..
 
 ## 📫 Como me Encontrar
 
