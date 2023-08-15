@@ -25,6 +25,7 @@ Sou um(a) entusiasta da tecnologia, apaixonado por hacking ético, programação
 
 ## 🚀 Projetos Especiais
 
+- [CyberGuard Site: Desenvolvido em HTML, CSS e JavaScript](https://github.com/EfySecurity/Projeto-Site)
 - [Projeto XYZ: Desenvolvimento de Aplicativo Mobile](link_para_projeto)
 - Colaboração com [Empresa/Equipe](link_para_colaboracao)
 - ...
