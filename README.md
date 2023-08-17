@@ -55,8 +55,7 @@ Sou um(a) entusiasta da tecnologia, apaixonado por hacking ético, programação
 
 Você pode me encontrar em várias plataformas:
 
-- LinkedIn: [João Oliveira](https://linkedin.com/in/seu_perfil)
-- Twitter: [@seu_usuario](https://twitter.com/seu_usuario)
+- LinkedIn: [João Oliveira](https://www.linkedin.com/in/joao-vitor-da-silva-oliveira-72090a21b/)
 - GitHub: [@EfySecurity](https://github.com/EfySecurity)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EfySecurity)](https://github.com/anuraghazra/github-readme-stats)
