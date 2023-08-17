@@ -44,8 +44,8 @@ Sou um(a) entusiasta da tecnologia, apaixonado por hacking ético, programação
 
 - **Linguagens de Programação:** [Python, Shell Scripting, PHP, HTML, JavaScript, CSS]
 - **Segurança Cibernética:** [Experiência em Hacking Ético, Hacker Investigativo, Kali Linux, Kali Methunter, Andrax, Ferramentas que você usa]
-- **Desenvolvimento Web:** [Front-end, Back-end, Metasploit, Frameworks que você conhece]
-- **Outras Habilidades:** [xxx]
+- **Desenvolvimento Web:** [Front-end, Back-end, Frameworks que você conhece]
+- **Outras Habilidades:** [MetaSploit Framework, Nmap – Network, Aircrack-NG Tools, HiddenEye, Whois, Hydra, Crunsh, SQLMap, Netcat Andrax-Pentest-Mobile]
 
 ## 💻 Projetos Destacados
 
