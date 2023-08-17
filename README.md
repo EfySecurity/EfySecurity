@@ -58,7 +58,8 @@ Você pode me encontrar em várias plataformas:
 - LinkedIn: [João Oliveira](https://www.linkedin.com/in/joao-vitor-da-silva-oliveira-72090a21b/)
 - GitHub: [Efy Security](https://github.com/EfySecurity)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EfySecurity)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EfySecurity&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EfySecurity&layout=compact)
 
 
 Fique à vontade para me contatar! Vamos discutir sobre segurança cibernética, programação ou qualquer coisa interessante. 😄
