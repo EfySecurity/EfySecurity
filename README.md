@@ -19,39 +19,33 @@ Sou um(a) entusiasta da tecnologia, apaixonado por hacking ético, programação
 ## 🏆 Conquistas e Certificações
 
 - [Certificado em Tecnicas de Invasão (TDI)](https://github.com/EfySecurity/Certificacao-Efy/blob/main/TDI.pdf)
-- [Certificação em Segurança Cibernética (CIS)](link_para_certificacao)
-- Vencedor do Hackathon XYZ (Ano)
-- ...
 
 ## 🚀 Projetos Especiais
 
 - [CyberGuard: Desenvolvido em HTML, CSS e JavaScript](https://github.com/EfySecurity/Projeto-Site)
-- [Projeto XYZ: Desenvolvimento de Aplicativo Mobile](link_para_projeto)
 - Colaboração com [Empresa/Equipe](link_para_colaboracao)
-- ...
 
 ## 🌟 Contribuições para Projetos Open Source
 
 - [Contribuição ao Projeto ABC](link_para_contribuicao)
 - Membro ativo da organização [Nome da Organização](link_para_organizacao)
-- ...
-
+- 
 ## 📚 Blogs e Artigos
 
 - [Como Criar um Sistema de Autenticação Seguro](link_para_blog_1)
-- Apresentação na Conferência XYZ (Ano)
+- ...
 
 ## 🌐 Atividades na Comunidade
 
-- Moderador do Grupo de Estudo de Segurança Cibernética (Efy Security)
-- Organizador do Evento TechTalk (link_para_evento)
+- Moderador do Grupo de Estudo de Hacker Security (Efy Security)
+- Organizador do Evento EstacaZero (link_para_evento)
 
 ## 💼 Habilidades
 
 - **Linguagens de Programação:** [Python, Shell Scripting, PHP, HTML, JavaScript, CSS]
-- **Segurança Cibernética:** [Experiência em Hacking Ético, Kali Linux, Kali Methunter, Andrax, Ferramentas que você usa]
+- **Segurança Cibernética:** [Experiência em Hacking Ético, Hacker Investigativo, Kali Linux, Kali Methunter, Andrax, Ferramentas que você usa]
 - **Desenvolvimento Web:** [Front-end, Back-end, Metasploit, Frameworks que você conhece]
-- **Outras Habilidades:** [Outras habilidades relevantes]
+- **Outras Habilidades:** [xxx]
 
 ## 💻 Projetos Destacados
 
